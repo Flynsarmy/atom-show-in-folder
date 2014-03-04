@@ -1,13 +1,12 @@
 {
   "name": "show-in-folder",
   "main": "./lib/show-in-folder",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds Show in Folder context entry on the sidebar",
   "repository": "https://github.com/Flynsarmy/atom-show-in-folder",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
